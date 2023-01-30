@@ -27,8 +27,8 @@ $ python detect.py --weights runs/train/exp7/weights/best.pt --source /path/to/v
 ```
 
 <p float="left">
-  <img src="cricket_ball_ip.gif" height=250, width="450" />
-  <img src="ball-tracking.gif" height=250, width="450" /> 
+  <img src="cricket_ball_ip.gif" height=250, width="350" />
+  <img src="ball-tracking.gif" height=250, width="350" /> 
 </p>
 
 <div align="left"></div>
