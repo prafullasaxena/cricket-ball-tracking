@@ -1,5 +1,5 @@
 # <div align="center">Cricket-ball-tracking</div>
-Project is about to track the ball in a video clip of cricket match. This project is build upon YOLO3 architecture. YOLO is fine tuned on real time cricket scene images. fine tuned utilizes to track the ball path in real time videos.
+Project is about to track the ball in a video clip of cricket match. This project is build upon YOLO3 architecture. YOLO is fine tuned on real time cricket scene images. fine tuned model utilizes to track the ball path in real time videos.
 
 ## <div align="center">Documentation</div>
 
